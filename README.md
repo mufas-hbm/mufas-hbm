@@ -13,7 +13,7 @@
  - Technology 💻
  ```
 
- ### When I'm not coding, you can find me spending time with my family and going down the slides in the park with my son.🛝 
+ ### When I'm not coding, you can find me spending time with my family and going down the slides in the park with my children🛝 
  ### I’m currently learning **Python** at *DCI* - 👯 
 
 # 🛠️ Tech Stack
@@ -21,6 +21,10 @@
 >> Java, PHP, Python, HTML, CSS, Javascript 
 > ### Tools
 >> VS Code, Github
+> ### Framweorks
+>> Django, React
+> ### Databases
+>> PostgreSQL, MySQL
 
 ## Connect with me
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2)](https://twitter.com/mufetas)<br>
